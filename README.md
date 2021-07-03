@@ -1,3 +1,3 @@
 # python-send-mail
 
-azıcık ingliçe si olan nereyi nasıl dorucuğını bilir
+azıcık ingliçe si olan nereyi nasıl dolduracağını bilir
