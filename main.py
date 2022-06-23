@@ -13,7 +13,7 @@ message["From"] = sender_email
 message["To"] = recevier_email
 
 text = """\
-Mesaj
+Message
 """
 
 part1 = MIMEText(text, "plain")
